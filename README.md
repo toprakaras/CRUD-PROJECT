@@ -24,3 +24,5 @@ Projede yönergeye uygun olarak `src` altında şu dizinler mevcuttur:
 ## Kurulum
 1. Proje dizininde `npm install` komutunu çalıştırın.
 2. `npm run dev` ile uygulamayı başlatın.
+
+![Proje Ekran Goruntusu](./screenshot.png)
