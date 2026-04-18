@@ -9,7 +9,7 @@ Bu proje React ve Vite kullanılarak hazırlanmış bir kullanıcı yönetim (CR
 - **Sil (Delete):** Kullanıcılar listeden silinebilir.
 - **Veri Kalıcılığı:** Tüm değişiklikler (Ekleme, Silme, Güncelleme) tarayıcının `LocalStorage` bölümüne kaydedilir, sayfa yenilendiğinde veriler kaybolmaz.
 
-## Ekran Görüntüleri
+## Ekran Görüntüsü
 
 ![Proje Ekran Goruntusu](./screenshot.png)
 
