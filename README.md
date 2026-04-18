@@ -14,7 +14,6 @@ Bu proje React ve Vite kullanılarak hazırlanmış bir kullanıcı yönetim (CR
 **1. Ana Liste Görünümü**
 
 **2. Kullanıcı Güncelleme Görünümü**
-![Güncelleme Görünümü](./screenshot_edit.png)
 
 ## Klasör Yapısı
 Projede yönergeye uygun olarak `src` altında şu dizinler mevcuttur:
