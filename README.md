@@ -11,9 +11,7 @@ Bu proje React ve Vite kullanılarak hazırlanmış bir kullanıcı yönetim (CR
 
 ## Ekran Görüntüleri
 
-**1. Ana Liste Görünümü**
-
-**2. Kullanıcı Güncelleme Görünümü**
+![Proje Ekran Goruntusu](./screenshot.png)
 
 ## Klasör Yapısı
 Projede yönergeye uygun olarak `src` altında şu dizinler mevcuttur:
@@ -25,4 +23,3 @@ Projede yönergeye uygun olarak `src` altında şu dizinler mevcuttur:
 1. Proje dizininde `npm install` komutunu çalıştırın.
 2. `npm run dev` ile uygulamayı başlatın.
 
-![Proje Ekran Goruntusu](./screenshot.png)
